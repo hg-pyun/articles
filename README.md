@@ -5,7 +5,9 @@ The easy-to-understand articles.
 - [쉽게 이해하는 자바스크립트 프로토타입 체인](https://meetup.toast.com/posts/104)
 - [자바스크립트와 이벤트 루프](https://meetup.toast.com/posts/89)
 - [ES6 Iterator](https://medium.com/@la.place/javascript-iterator-b16ca3c51af2) 
-- [ES6 Proxy](https://medium.com/@la.place/javascript-es6-proxy-da8ae2946dff) 
+- [ES6 Proxy](https://medium.com/@la.place/javascript-es6-proxy-da8ae2946dff)
+- [자바스크립트 함수 (1) - 함수 객체, 함수 객체 생성](https://meetup.toast.com/posts/118)
+- [자바스크립트 함수 (2) - 함수 호출](https://meetup.toast.com/posts/123)
 
 #### Javascript+
 - [100,000개의 아이템도 거뜬한 셀렉트박스 만들기](https://meetup.toast.com/posts/160)
