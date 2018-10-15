@@ -11,6 +11,7 @@ The easy-to-understand articles.
 
 #### Javascript+
 - [Async-wait는 어떻게 구현하는가](https://medium.com/@la.place/async-await%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%EA%B0%80-fa08a3157647)
+- [ES6의 제너레이터를 사용한 비동기 프로그래밍](https://meetup.toast.com/posts/73)
 - [100,000개의 아이템도 거뜬한 셀렉트박스 만들기](https://meetup.toast.com/posts/160)
 - [Proxy와 가상 돔을 사용하여 나만의 프레임워크 만들기](https://meetup.toast.com/posts/158)
 
