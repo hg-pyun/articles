@@ -8,6 +8,8 @@ The easy-to-understand articles.
 - [ES6 Proxy](https://medium.com/@la.place/javascript-es6-proxy-da8ae2946dff)
 - [자바스크립트 함수 (1) - 함수 객체, 함수 객체 생성](https://meetup.toast.com/posts/118)
 - [자바스크립트 함수 (2) - 함수 호출](https://meetup.toast.com/posts/123)
+- [JavaScript 표준을 위한 움직임: CommonJS와 AMD](https://d2.naver.com/helloworld/12864)
+- [RequireJS - AMD의 이해와 개발](https://d2.naver.com/helloworld/591319)
 
 #### Javascript+
 - [Async-wait는 어떻게 구현하는가](https://medium.com/@la.place/async-await%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%EA%B0%80-fa08a3157647)
