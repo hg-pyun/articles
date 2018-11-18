@@ -30,3 +30,6 @@ The easy-to-understand articles.
 - [Currying Hello world](https://medium.com/@la.place/currying-hello-world-ce452b988f2b)
 - [고차 함수](http://blog.jeonghwan.net/js/2017/04/03/high-order-function-in-javascript.html)
 - [HOF란 무엇인가](http://dev-momo.tistory.com/entry/HigherOrder-Function-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80?category=536788)
+
+#### Design
+- [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
