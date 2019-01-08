@@ -42,6 +42,9 @@ The easy-to-understand articles.
 ## Design
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
 
+## Tools
+- [Atlassian JIRA를 이용한 애자일 Scrum 프로젝트 관리](http://bcho.tistory.com/826)
+
 ## Network
 - [HTTPS와 SSL 인증서](https://opentutorials.org/course/228/4894)
 - [HTTP Cache](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=ko)
