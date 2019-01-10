@@ -21,6 +21,7 @@ The easy-to-understand articles.
 - [ES6의 제너레이터를 사용한 비동기 프로그래밍](https://meetup.toast.com/posts/73)
 
 #### React
+- [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 - [Redux Middleware, 비동기 작업](https://velopert.com/3401)
 - [Redux-Saga: 사이드 이펙트 관리](https://meetup.toast.com/posts/136)
 - [Redux-Saga: 제네레이터와 이펙트](https://meetup.toast.com/posts/140)
