@@ -38,6 +38,8 @@ The easy-to-understand articles.
 - [성능 좋은 웹 애니메이션과 인터렉션: 60 FPS 달성](https://github.com/codepink/codepink.github.com/wiki/%EC%84%B1%EB%8A%A5-%EC%A2%8B%EC%9D%80-%EC%9B%B9-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%EA%B3%BC-%EC%9D%B8%ED%84%B0%EB%A0%89%EC%85%98:-60-FPS-%EB%8B%AC%EC%84%B1)
 - [Algorithm Javascript](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
 - [GOF javascript](https://github.com/fbeline/Design-Patterns-JS)
+- [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
+
 ## CSS
 - [CSS 애니메이션 성능 개선 방법](http://wit.nts-corp.com/2017/06/05/4571)
 - [하드웨어 가속에 대한 이해와 적용](https://d2.naver.com/helloworld/2061385)
