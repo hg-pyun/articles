@@ -40,6 +40,7 @@ The easy-to-understand articles.
 - [Algorithm Javascript](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
 - [GOF javascript](https://github.com/fbeline/Design-Patterns-JS)
 - [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
+- [실용적인 프론트엔드 테스트 전략 (1)](https://meetup.toast.com/posts/174)
 
 ## CSS
 - [CSS 애니메이션 성능 개선 방법](http://wit.nts-corp.com/2017/06/05/4571)
