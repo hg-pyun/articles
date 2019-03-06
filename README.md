@@ -6,6 +6,7 @@ The easy-to-understand articles.
 - [자바스크립트와 이벤트 루프](https://meetup.toast.com/posts/89)
 - [JavaScript 표준을 위한 움직임: CommonJS와 AMD](https://d2.naver.com/helloworld/12864)
 - [RequireJS - AMD의 이해와 개발](https://d2.naver.com/helloworld/591319)
+- [Scope의 이해](http://www.nextree.co.kr/p7363/)
 
 #### ES5
 - [쉽게 이해하는 자바스크립트 프로토타입 체인](https://meetup.toast.com/posts/104)
