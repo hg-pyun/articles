@@ -43,6 +43,7 @@ The easy-to-understand articles.
 - [실용적인 프론트엔드 테스트 전략 (1)](https://meetup.toast.com/posts/174)
 - [JavaScript 엔진 동작을 알아야 하는 이유](https://devtimothy.tistory.com/94)
 - [Hidden Class](https://engineering.linecorp.com/ko/blog/v8-hidden-class/)
+- [must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript)
 
 ## CSS
 - [CSS 애니메이션 성능 개선 방법](http://wit.nts-corp.com/2017/06/05/4571)
