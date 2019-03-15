@@ -45,6 +45,7 @@ The easy-to-understand articles.
 - [JavaScript 엔진 동작을 알아야 하는 이유](https://devtimothy.tistory.com/94)
 - [Hidden Class](https://engineering.linecorp.com/ko/blog/v8-hidden-class/)
 - [must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript)
+- [최신 브라우저의 내부 살펴보기 1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)
 
 ## CSS
 - [CSS 애니메이션 성능 개선 방법](http://wit.nts-corp.com/2017/06/05/4571)
