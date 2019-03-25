@@ -46,6 +46,7 @@ The easy-to-understand articles.
 - [Hidden Class](https://engineering.linecorp.com/ko/blog/v8-hidden-class/)
 - [must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript)
 - [최신 브라우저의 내부 살펴보기 1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)
+- [Middleware Parttern TDD](http://blog.jeonghwan.net/series/2018/12/08/node-web-8_middleware.html) 
 
 ## CSS
 - [CSS 애니메이션 성능 개선 방법](http://wit.nts-corp.com/2017/06/05/4571)
