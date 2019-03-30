@@ -70,3 +70,6 @@ The easy-to-understand articles.
 ## Network
 - [HTTPS와 SSL 인증서](https://opentutorials.org/course/228/4894)
 - [HTTP Cache](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=ko)
+
+## python
+- [Write yourself a Git!](https://wyag.thb.lt/)
