@@ -1,4 +1,4 @@
-# Documents
+# articles
 The easy-to-understand articles.
 
 ## Javascript
