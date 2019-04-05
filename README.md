@@ -71,5 +71,6 @@ The easy-to-understand articles.
 - [HTTPS와 SSL 인증서](https://opentutorials.org/course/228/4894)
 - [HTTP Cache](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=ko)
 
-## python
+## ETC
 - [Write yourself a Git!](https://wyag.thb.lt/)
+- [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html?fbclid=IwAR26jjGWzxOeYhdUapBWMmZXOYhH-4kvIAcT1y8iIGKSv8WINbCaIZh2oxs_)
