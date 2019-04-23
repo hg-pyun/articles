@@ -42,11 +42,15 @@ The easy-to-understand articles.
 - [GOF](https://github.com/fbeline/Design-Patterns-JS)
 - [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
 - [실용적인 프론트엔드 테스트 전략 (1)](https://meetup.toast.com/posts/174)
+- [must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript)
+- [Middleware Parttern TDD](http://blog.jeonghwan.net/series/2018/12/08/node-web-8_middleware.html) 
+
+# Engin
+- [최신 브라우저의 내부 살펴보기 1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)
+- [최신 브라우저의 내부 살펴보기 2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
+- [최신 브라우저의 내부 살펴보기 3 - 렌더러 프로세스의 내부 동작](https://d2.naver.com/helloworld/5237120)
 - [JavaScript 엔진 동작을 알아야 하는 이유](https://devtimothy.tistory.com/94)
 - [Hidden Class](https://engineering.linecorp.com/ko/blog/v8-hidden-class/)
-- [must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript)
-- [최신 브라우저의 내부 살펴보기 1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)
-- [Middleware Parttern TDD](http://blog.jeonghwan.net/series/2018/12/08/node-web-8_middleware.html) 
 
 ## CSS
 - [CSS 애니메이션 성능 개선 방법](http://wit.nts-corp.com/2017/06/05/4571)
