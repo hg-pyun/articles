@@ -70,6 +70,7 @@ The easy-to-understand articles.
 
 ## Tools
 - [Atlassian JIRA를 이용한 애자일 Scrum 프로젝트 관리](http://bcho.tistory.com/826)
+- [VS CODE extension for FE](https://amati.io/2019/04/25/vs-code-extension-for-fe/?fbclid=IwAR0P-JnrQ7QKeQDK-TBo4IQFfu3i-VyfVOWLbTrT67ROVLZQd8VpTnePEfI)
 
 ## Network
 - [HTTPS와 SSL 인증서](https://opentutorials.org/course/228/4894)
