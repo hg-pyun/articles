@@ -79,3 +79,4 @@ The easy-to-understand articles.
 ## ETC
 - [Write yourself a Git!](https://wyag.thb.lt/)
 - [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html?fbclid=IwAR26jjGWzxOeYhdUapBWMmZXOYhH-4kvIAcT1y8iIGKSv8WINbCaIZh2oxs_)
+- [차이를 만드는 커리어 굴리기](https://speakerdeck.com/unbing/caireul-mandeuneun-keorieo-gulrigi) 
