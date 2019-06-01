@@ -43,6 +43,7 @@ The easy-to-understand articles.
 - [실용적인 프론트엔드 테스트 전략 (1)](https://meetup.toast.com/posts/174)
 - [must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript)
 - [Middleware Parttern TDD](http://blog.jeonghwan.net/series/2018/12/08/node-web-8_middleware.html) 
+- [프런트엔드 엔지니어를 위한 베지에 곡선(Bézier Curves)](https://blog.coderifleman.com/2017/01/02/bezier-curves-for-frontend-engineer-1/) 
 
 ## Engin
 - [자바스크립트와 이벤트 루프](https://meetup.toast.com/posts/89)
