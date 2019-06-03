@@ -70,6 +70,7 @@ The easy-to-understand articles.
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
 
 ## Tools
+- [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.toast.com/posts/122)
 - [Atlassian JIRA를 이용한 애자일 Scrum 프로젝트 관리](http://bcho.tistory.com/826)
 - [VS CODE extension for FE](https://amati.io/2019/04/25/vs-code-extension-for-fe/?fbclid=IwAR0P-JnrQ7QKeQDK-TBo4IQFfu3i-VyfVOWLbTrT67ROVLZQd8VpTnePEfI)
 
