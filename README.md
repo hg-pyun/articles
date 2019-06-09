@@ -19,6 +19,7 @@ The easy-to-understand articles.
 - [Javascript Iterator](http://dev-momo.tistory.com/entry/Javascript-Iterator?category=536788) 
 - [Async-wait는 어떻게 구현하는가](http://dev-momo.tistory.com/entry/Asyncawait%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%EA%B0%80-1)
 - [ES6의 제너레이터를 사용한 비동기 프로그래밍](https://meetup.toast.com/posts/73)
+- [Generator in Practice](https://meetup.toast.com/posts/93)
 
 #### React
 - [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
