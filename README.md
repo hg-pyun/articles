@@ -39,7 +39,7 @@ The easy-to-understand articles.
 - [알아두면 쓸만한 크롬 콘솔 기능](http://dev-momo.tistory.com/entry/%EC%95%8C%EB%A7%88%EB%91%90%EB%A9%B4-%EC%93%B8%EB%A7%8C%ED%95%9C-Chrome-Console-%EA%B8%B0%EB%8A%A5?category=536788)
 - [성능 좋은 웹 애니메이션과 인터렉션: 60 FPS 달성](https://github.com/codepink/codepink.github.com/wiki/%EC%84%B1%EB%8A%A5-%EC%A2%8B%EC%9D%80-%EC%9B%B9-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%EA%B3%BC-%EC%9D%B8%ED%84%B0%EB%A0%89%EC%85%98:-60-FPS-%EB%8B%AC%EC%84%B1)
 - [Algorithm](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
-- [GOF](https://github.com/fbeline/Design-Patterns-JS)
+- [design-patterns-JS](https://github.com/fbeline/Design-Patterns-JS)
 - [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
 - [실용적인 프론트엔드 테스트 전략 (1)](https://meetup.toast.com/posts/174)
 - [must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript)
