@@ -29,7 +29,8 @@ The easy-to-understand articles.
 - [Redux-Saga: Channel](https://meetup.toast.com/posts/145)
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [Mixins Considered Harmful](https://reactjs.org/blog/2016/07/13/mixins-considered-harmful.html)
-- [React 렌더링과 성능 알아보기](https://meetup.toast.com/posts/110) 
+- [React 렌더링과 성능 알아보기](https://meetup.toast.com/posts/110)
+- [리액트의 Hooks 완벽 정복하기](https://velog.io/@velopert/react-hooks)
 
 ## Javascript+
 - [100,000개의 아이템도 거뜬한 셀렉트박스 만들기](https://meetup.toast.com/posts/160)
