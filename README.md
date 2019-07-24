@@ -80,6 +80,7 @@ The easy-to-understand articles.
 ## Network
 - [HTTPS와 SSL 인증서](https://opentutorials.org/course/228/4894)
 - [HTTP Cache](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=ko)
+- [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html?fbclid=IwAR26jjGWzxOeYhdUapBWMmZXOYhH-4kvIAcT1y8iIGKSv8WINbCaIZh2oxs_)
 
 ## Docker
 - [초보를 위한 도커 안내서 - 도커란 무엇인가](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
@@ -89,6 +90,5 @@ The easy-to-understand articles.
 
 ## ETC
 - [Write yourself a Git!](https://wyag.thb.lt/)
-- [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html?fbclid=IwAR26jjGWzxOeYhdUapBWMmZXOYhH-4kvIAcT1y8iIGKSv8WINbCaIZh2oxs_)
 - [차이를 만드는 커리어 굴리기](https://speakerdeck.com/unbing/caireul-mandeuneun-keorieo-gulrigi) 
 - [첫 프리랜서 도전기](https://brunch.co.kr/@chickenmoim/5?fbclid=IwAR0fNzAa13FnHjjAIXaT13ezHhFlLLZLND3NDEa1O0NBck1tOYD4SuBpiyo)
