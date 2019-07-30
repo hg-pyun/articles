@@ -56,6 +56,9 @@ The easy-to-understand articles.
 - [JavaScript 엔진 동작을 알아야 하는 이유](https://devtimothy.tistory.com/94)
 - [Hidden Class](https://engineering.linecorp.com/ko/blog/v8-hidden-class/)
 
+## HTML
+- [tabindex 사용](https://developers.google.com/web/fundamentals/accessibility/focus/using-tabindex?hl=ko)
+
 ## CSS
 - [CSS 애니메이션 성능 개선 방법](http://wit.nts-corp.com/2017/06/05/4571)
 - [하드웨어 가속에 대한 이해와 적용](https://d2.naver.com/helloworld/2061385)
