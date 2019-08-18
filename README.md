@@ -31,6 +31,7 @@ The easy-to-understand articles.
 - [Mixins Considered Harmful](https://reactjs.org/blog/2016/07/13/mixins-considered-harmful.html)
 - [React 렌더링과 성능 알아보기](https://meetup.toast.com/posts/110)
 - [리액트의 Hooks 완벽 정복하기](https://velog.io/@velopert/react-hooks)
+- [함수형 컴포넌트와 클래스, 어떤 차이가 존재할까?](https://overreacted.io/ko/how-are-function-components-different-from-classes/)
 
 ## Javascript+
 - [100,000개의 아이템도 거뜬한 셀렉트박스 만들기](https://meetup.toast.com/posts/160)
