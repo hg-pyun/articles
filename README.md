@@ -104,3 +104,4 @@ The easy-to-understand articles.
 - [Write yourself a Git!](https://wyag.thb.lt/)
 - [차이를 만드는 커리어 굴리기](https://speakerdeck.com/unbing/caireul-mandeuneun-keorieo-gulrigi) 
 - [첫 프리랜서 도전기](https://brunch.co.kr/@chickenmoim/5?fbclid=IwAR0fNzAa13FnHjjAIXaT13ezHhFlLLZLND3NDEa1O0NBck1tOYD4SuBpiyo)
+- [Announcing the curl cookbook](https://catonmat.net/announcing-curl-cookbook) 
