@@ -64,6 +64,7 @@ The easy-to-understand articles.
 ## CSS
 - [CSS 애니메이션 성능 개선 방법](http://wit.nts-corp.com/2017/06/05/4571)
 - [하드웨어 가속에 대한 이해와 적용](https://d2.naver.com/helloworld/2061385)
+- [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176)
 
 ## Server
 - [서버리스 아키텍쳐(Serverless)란?](https://velopert.com/3543)
