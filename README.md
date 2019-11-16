@@ -111,3 +111,4 @@ The easy-to-understand articles.
 - [Announcing the curl cookbook](https://catonmat.net/announcing-curl-cookbook)
 - [초보자를 위한 Vim 입문서](https://www.joinc.co.kr/w/Site/Vim/Documents/UsedVim?fbclid=IwAR2IetQJRJHrslHuWtsU2Ga8sekYspZ_yssjcOEJte94QingTD-nM5QMUNA#AEN18)
 - [사용자 중심적인 성능 측정항목](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics?hl=ko)
+- [macOS 초심자를 위한 터미널 공부 가이드](https://johngrib.github.io/wiki/my-mac-os-terminal/)
