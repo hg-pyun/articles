@@ -92,6 +92,7 @@ The easy-to-understand articles.
 - [HTTPS와 SSL 인증서](https://opentutorials.org/course/228/4894)
 - [HTTP Cache](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=ko)
 - [캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html?fbclid=IwAR26jjGWzxOeYhdUapBWMmZXOYhH-4kvIAcT1y8iIGKSv8WINbCaIZh2oxs_)
+- [만화로 보는 DNS over HTTPS](http://hacks.mozilla.or.kr/2019/10/a-cartoon-intro-to-dns-over-https/)
 
 ## Docker
 - [초보를 위한 도커 안내서 - 도커란 무엇인가](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
