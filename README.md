@@ -87,6 +87,7 @@ The easy-to-understand articles.
 - [Atlassian JIRA를 이용한 애자일 Scrum 프로젝트 관리](http://bcho.tistory.com/826)
 - [VS CODE extension for FE](https://amati.io/2019/04/25/vs-code-extension-for-fe/?fbclid=IwAR0P-JnrQ7QKeQDK-TBo4IQFfu3i-VyfVOWLbTrT67ROVLZQd8VpTnePEfI)
 - [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+- [https://medium.com/harrythegreat/%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94-iterm2-%EA%B3%A0%EA%B8%89%EA%B8%B0%EB%8A%A5-81a4cd81bab7](https://medium.com/harrythegreat/%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94-iterm2-%EA%B3%A0%EA%B8%89%EA%B8%B0%EB%8A%A5-81a4cd81bab7)
 
 ## Network
 - [HTTPS와 SSL 인증서](https://opentutorials.org/course/228/4894)
