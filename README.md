@@ -2,17 +2,16 @@
 The easy-to-understand articles.
 
 ## Javascript
-#### Core
+
+#### ES5
 - [JavaScript 표준을 위한 움직임: CommonJS와 AMD](https://d2.naver.com/helloworld/12864)
 - [RequireJS - AMD의 이해와 개발](https://d2.naver.com/helloworld/591319)
 - [Scope의 이해](http://www.nextree.co.kr/p7363/)
-
-#### ES5
 - [쉽게 이해하는 자바스크립트 프로토타입 체인](https://meetup.toast.com/posts/104)
 - [자바스크립트 함수 (1) - 함수 객체, 함수 객체 생성](https://meetup.toast.com/posts/118)
 - [자바스크립트 함수 (2) - 함수 호출](https://meetup.toast.com/posts/123)
 
-#### ES6
+#### ES6+
 - [Proxy](https://medium.com/@la.place/javascript-es6-proxy-da8ae2946dff)
 - [Async-await](https://developers.google.com/web/fundamentals/primers/async-functions?hl=ko)
 - [Optional Chaining](http://dev-momo.tistory.com/entry/Javascript-Optional-Chaining)
@@ -34,7 +33,7 @@ The easy-to-understand articles.
 - [리액트의 Hooks 완벽 정복하기](https://velog.io/@velopert/react-hooks)
 - [함수형 컴포넌트와 클래스, 어떤 차이가 존재할까?](https://overreacted.io/ko/how-are-function-components-different-from-classes/)
 
-## Javascript+
+#### Useful
 - [100,000개의 아이템도 거뜬한 셀렉트박스 만들기](https://meetup.toast.com/posts/160)
 - [Proxy와 가상 돔을 사용하여 나만의 프레임워크 만들기](https://meetup.toast.com/posts/158)
 - [TDD와 Mocha](http://dev-momo.tistory.com/entry/TDD-Mocha-Javascript-Test-Framework)
@@ -49,6 +48,9 @@ The easy-to-understand articles.
 - [Middleware Parttern TDD](http://blog.jeonghwan.net/series/2018/12/08/node-web-8_middleware.html) 
 - [프런트엔드 엔지니어를 위한 베지에 곡선(Bézier Curves)](https://blog.coderifleman.com/2017/01/02/bezier-curves-for-frontend-engineer-1/)
 - [벨로퍼트와 함께하는 리액트 테스팅](https://velog.io/@velopert/series/react-testing)
+
+## iOS
+- [공식문서 만으로 iOS 개발 배우기](https://sungdoo.dev/programming/start-ios-development-with-offical-docs/)
 
 ## Engin
 - [자바스크립트와 이벤트 루프](https://meetup.toast.com/posts/89)
@@ -83,10 +85,14 @@ The easy-to-understand articles.
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
 
 ## Tools
+#### Git
+- [Write yourself a Git!](https://wyag.thb.lt/)
 - [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.toast.com/posts/122)
-- [Atlassian JIRA를 이용한 애자일 Scrum 프로젝트 관리](http://bcho.tistory.com/826)
-- [VS CODE extension for FE](https://amati.io/2019/04/25/vs-code-extension-for-fe/?fbclid=IwAR0P-JnrQ7QKeQDK-TBo4IQFfu3i-VyfVOWLbTrT67ROVLZQd8VpTnePEfI)
 - [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+
+#### Terminal
+- [초보자를 위한 Vim 입문서](https://www.joinc.co.kr/w/Site/Vim/Documents/UsedVim?fbclid=IwAR2IetQJRJHrslHuWtsU2Ga8sekYspZ_yssjcOEJte94QingTD-nM5QMUNA#AEN18)
+- [macOS 초심자를 위한 터미널 공부 가이드](https://johngrib.github.io/wiki/my-mac-os-terminal/)
 - [알아두면 도움되는 iTerm2 고급기능](https://medium.com/harrythegreat/%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94-iterm2-%EA%B3%A0%EA%B8%89%EA%B8%B0%EB%8A%A5-81a4cd81bab7)
 
 ## Network
@@ -110,11 +116,10 @@ The easy-to-understand articles.
 - [geeksforgeeks](https://www.geeksforgeeks.org/)
 
 ## ETC
-- [Write yourself a Git!](https://wyag.thb.lt/)
 - [차이를 만드는 커리어 굴리기](https://speakerdeck.com/unbing/caireul-mandeuneun-keorieo-gulrigi) 
 - [첫 프리랜서 도전기](https://brunch.co.kr/@chickenmoim/5?fbclid=IwAR0fNzAa13FnHjjAIXaT13ezHhFlLLZLND3NDEa1O0NBck1tOYD4SuBpiyo)
 - [Announcing the curl cookbook](https://catonmat.net/announcing-curl-cookbook)
-- [초보자를 위한 Vim 입문서](https://www.joinc.co.kr/w/Site/Vim/Documents/UsedVim?fbclid=IwAR2IetQJRJHrslHuWtsU2Ga8sekYspZ_yssjcOEJte94QingTD-nM5QMUNA#AEN18)
 - [사용자 중심적인 성능 측정항목](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics?hl=ko)
-- [macOS 초심자를 위한 터미널 공부 가이드](https://johngrib.github.io/wiki/my-mac-os-terminal/)
 - [How to Read Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- [Atlassian JIRA를 이용한 애자일 Scrum 프로젝트 관리](http://bcho.tistory.com/826)
+- [VS CODE extension for FE](https://amati.io/2019/04/25/vs-code-extension-for-fe/?fbclid=IwAR0P-JnrQ7QKeQDK-TBo4IQFfu3i-VyfVOWLbTrT67ROVLZQd8VpTnePEfI)
