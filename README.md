@@ -125,3 +125,4 @@ The easy-to-understand articles.
 - [Atlassian JIRA를 이용한 애자일 Scrum 프로젝트 관리](http://bcho.tistory.com/826)
 - [VS CODE extension for FE](https://amati.io/2019/04/25/vs-code-extension-for-fe/?fbclid=IwAR0P-JnrQ7QKeQDK-TBo4IQFfu3i-VyfVOWLbTrT67ROVLZQd8VpTnePEfI)
 - [구글의 디자인 윤리학자](https://brunch.co.kr/@cliche-cliche/61?fbclid=IwAR2m9WCwMaDz5NZ28RoXHBZ7h0vXB3d-ZICIRn1P1Dx74LaDW9N2kiD2K1g) 
+- [라이트하우스 6.0에서 바뀐 성능 지표변화](https://ui.toast.com/weekly-pick/ko_20200528/)
