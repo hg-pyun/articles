@@ -131,3 +131,4 @@ The easy-to-understand articles.
 - [라이트하우스 6.0에서 바뀐 성능 지표변화](https://ui.toast.com/weekly-pick/ko_20200528/)
 - [mobbin](https://mobbin.design)
 - [wwit](https://wwit.design)
+- [지원자도 회사를 평가합니다. 이렇게요.](https://brunch.co.kr/@goodgdg/142)
