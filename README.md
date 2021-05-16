@@ -111,6 +111,7 @@ The easy-to-understand articles.
 ## Security
 - [Node.js에서의 프로토타입 오염 공격이란 무엇인가](https://blog.coderifleman.com/2019/07/19/prototype-pollution-attacks-in-nodejs/?fbclid=IwAR1-fvZGaG57zCeW53dK8IF3AAQA1tDfc6ZAQb4zS19BZGxkJ-AgbHr4Dco)
 - [OAuth 2.0 대표 취약점과 보안 고려 사항 알아보기](https://meetup.toast.com/posts/105)
+- [안전한 패스워드 저장](https://d2.naver.com/helloworld/318732)
 
 ## Compiler
 - [Writing An Interpreter In Go](https://interpreterbook.com/)
