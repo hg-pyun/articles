@@ -33,6 +33,7 @@ The easy-to-understand articles.
 - [React 렌더링과 성능 알아보기](https://meetup.toast.com/posts/110)
 - [리액트의 Hooks 완벽 정복하기](https://velog.io/@velopert/react-hooks)
 - [함수형 컴포넌트와 클래스, 어떤 차이가 존재할까?](https://overreacted.io/ko/how-are-function-components-different-from-classes/)
+- [You Probably Don't Need Derived State](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html)
 
 #### Engin
 - [자바스크립트와 이벤트 루프](https://meetup.toast.com/posts/89)
