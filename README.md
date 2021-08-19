@@ -59,6 +59,7 @@ The easy-to-understand articles.
 - [프런트엔드 엔지니어를 위한 베지에 곡선(Bézier Curves)](https://blog.coderifleman.com/2017/01/02/bezier-curves-for-frontend-engineer-1/)
 - [벨로퍼트와 함께하는 리액트 테스팅](https://velog.io/@velopert/series/react-testing)
 - [트리 쉐이킹으로 자바스크립트 페이로드 줄이기](https://ui.toast.com/weekly-pick/ko_20180716)
+- [Vanilla Javascript로 가상돔(VirtualDOM) 만들기](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Virtual-DOM/)
 
 ## HTML
 - [tabindex 사용](https://developers.google.com/web/fundamentals/accessibility/focus/using-tabindex?hl=ko)
