@@ -68,6 +68,7 @@ The easy-to-understand articles.
 - [CSS 애니메이션 성능 개선 방법](http://wit.nts-corp.com/2017/06/05/4571)
 - [하드웨어 가속에 대한 이해와 적용](https://d2.naver.com/helloworld/2061385)
 - [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176)
+- [효율적인 다크 모드 구현을 위한 배경/전경 컨텍스트 기반의 컬러 팔레트 만들기 (feat. CSS variable)](https://xenosium.com/entry/8679/)
 
 ## Functional Programming
 - [함수형 프로그래밍이란 무엇인가](https://medium.com/@jooyunghan/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-fab4e960d263)
