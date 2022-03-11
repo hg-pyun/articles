@@ -38,7 +38,7 @@ The easy-to-understand articles.
 - [Flux로의 카툰 안내서](https://bestalign.github.io/translation/cartoon-guide-to-flux/)
 - [단단한 컴포넌트 부수기(feat. 조합, IoC)](https://brunch.co.kr/@finda/556)
 
-#### Engin
+#### Engine
 - [자바스크립트와 이벤트 루프](https://meetup.toast.com/posts/89)
 - [최신 브라우저의 내부 살펴보기 1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)
 - [최신 브라우저의 내부 살펴보기 2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
