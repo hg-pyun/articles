@@ -126,6 +126,7 @@ The easy-to-understand articles.
 
 ## Algorithm
 - [geeksforgeeks](https://www.geeksforgeeks.org/)
+- [Halting Problem](https://johngrib.github.io/wiki/halting-problem/)
 
 ## ETC
 - [차이를 만드는 커리어 굴리기](https://speakerdeck.com/unbing/caireul-mandeuneun-keorieo-gulrigi) 
