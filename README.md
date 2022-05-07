@@ -38,6 +38,7 @@ The easy-to-understand articles.
 - [Flux로의 카툰 안내서](https://bestalign.github.io/translation/cartoon-guide-to-flux/)
 - [단단한 컴포넌트 부수기(feat. 조합, IoC)](https://brunch.co.kr/@finda/556)
 - [Getting Closure on React Hooks by Shawn Wang | JSConf.Asia 2019](https://youtu.be/KJP1E-Y-xyo)
+- [React Testing Library 사용법](https://www.daleseo.com/react-testing-library/)
 
 #### Engine
 - [자바스크립트와 이벤트 루프](https://meetup.toast.com/posts/89)
