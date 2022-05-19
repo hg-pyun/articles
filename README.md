@@ -66,6 +66,7 @@ The easy-to-understand articles.
 - [트리 쉐이킹으로 자바스크립트 페이로드 줄이기](https://ui.toast.com/weekly-pick/ko_20180716)
 - [Vanilla Javascript로 가상돔(VirtualDOM) 만들기](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Virtual-DOM/)
 - [토스ㅣSLASH 21 - JavaScript Bundle Diet](https://www.youtube.com/watch?v=EP7g5R-7zwM)
+- [type-challenges](https://github.com/type-challenges/type-challenges)
 
 ## HTML
 - [tabindex 사용](https://developers.google.com/web/fundamentals/accessibility/focus/using-tabindex?hl=ko)
