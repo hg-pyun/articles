@@ -146,3 +146,4 @@ The easy-to-understand articles.
 - [mobbin](https://mobbin.design)
 - [wwit](https://wwit.design)
 - [지원자도 회사를 평가합니다. 이렇게요.](https://brunch.co.kr/@goodgdg/142)
+- [Learn Haskell by building a blog generator](https://lhbg-book.link/)
