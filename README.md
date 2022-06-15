@@ -40,6 +40,7 @@ The easy-to-understand articles.
 - [Getting Closure on React Hooks by Shawn Wang | JSConf.Asia 2019](https://youtu.be/KJP1E-Y-xyo)
 - [React Testing Library 사용법](https://www.daleseo.com/react-testing-library/)
 - [Making setInterval Declarative with React Hooks](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
+- [다른 사람들이 안 알려주는 리액트에서 Context API 잘 쓰는 방법](https://velog.io/@velopert/react-context-tutoria)
 
 #### Engine
 - [자바스크립트와 이벤트 루프](https://meetup.toast.com/posts/89)
