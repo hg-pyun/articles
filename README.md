@@ -148,3 +148,4 @@ The easy-to-understand articles.
 - [wwit](https://wwit.design)
 - [지원자도 회사를 평가합니다. 이렇게요.](https://brunch.co.kr/@goodgdg/142)
 - [Learn Haskell by building a blog generator](https://lhbg-book.link/)
+- [간단한 유틸 함수 NPM 라이브러리 배포해보기 (feat. TypeScript 지원, ESM 지원)](https://junghyeonsu.com/posts/deploy-simple-util-npm-library/)
