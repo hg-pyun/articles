@@ -85,7 +85,8 @@ The easy-to-understand articles.
 - [고차 함수](http://blog.jeonghwan.net/js/2017/04/03/high-order-function-in-javascript.html)
 - [HOF란 무엇인가](http://dev-momo.tistory.com/entry/HigherOrder-Function-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80?category=536788)
 - [FP in JS(자바스크립트로 접해보는 함수형 프로그래밍)](https://velog.io/@nakta/series/FP-in-JS)
-- [소프트웨어 합성](https://tpgns.github.io/2018/04/28/composing-software-translation-epilogue/) 
+- [소프트웨어 합성](https://tpgns.github.io/2018/04/28/composing-software-translation-epilogue/)
+- [JS개발자는 아직도 모나드를 모르겠어요](https://overthecode.io/i-am-js-developer-and-still-dont-know-monad/)
 
 ## Server
 - [서버리스 아키텍쳐(Serverless)란?](https://velopert.com/3543)
