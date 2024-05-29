@@ -152,3 +152,4 @@ The easy-to-understand articles.
 - [Learn Haskell by building a blog generator](https://lhbg-book.link/)
 - [간단한 유틸 함수 NPM 라이브러리 배포해보기 (feat. TypeScript 지원, ESM 지원)](https://junghyeonsu.com/posts/deploy-simple-util-npm-library/)
 - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
+- [발표의 정석](https://drive.google.com/file/d/1uQ5VOXBNk_Nf6V5JUXhKl2pHZY5N1wA4/view?pli=1)
