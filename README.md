@@ -50,6 +50,9 @@ The easy-to-understand articles.
 - [JavaScript 엔진 동작을 알아야 하는 이유](https://devtimothy.tistory.com/94)
 - [Hidden Class](https://engineering.linecorp.com/ko/blog/v8-hidden-class/)
 
+#### TypeScript
+- [타입스크립트 조건부 타입 완벽 이해하기](https://inpa.tistory.com/entry/TS-%F0%9F%93%98-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A1%B0%EA%B1%B4%EB%B6%80-%ED%83%80%EC%9E%85-%EC%99%84%EB%B2%BD-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+
 #### Useful
 - [100,000개의 아이템도 거뜬한 셀렉트박스 만들기](https://meetup.toast.com/posts/160)
 - [Proxy와 가상 돔을 사용하여 나만의 프레임워크 만들기](https://meetup.toast.com/posts/158)
